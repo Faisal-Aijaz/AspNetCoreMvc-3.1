@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Faisal.BookStore/.vs/Faisal.BookStore
+/Faisal.BookStore/Faisal.BookStore/bin/Debug/net9.0
+/Faisal.BookStore/Faisal.BookStore/obj
